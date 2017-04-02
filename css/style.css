@@ -2,6 +2,10 @@ body{
 	font-family: 'Raleway', sans-serif;
 	background:#eaeff7;
 }
+.navbar{
+	font-family: 'Raleway', sans-serif;
+	background: #eaeff7;
+}
 h1{
 		color:#5170a3;
 	}
@@ -18,3 +22,15 @@ h4{
 	padding-top: 10px;
     margin-bottom: 10px;
 } 
+.card-footer{
+	font-size: 40px;
+}
+.fa-facebook{
+	padding-left: 10px;
+}
+.fa-instagram{
+	padding-left: 10px;
+}
+.fa-pinterest{
+	padding-left: 10px;
+}

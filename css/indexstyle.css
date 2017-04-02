@@ -1,0 +1,16 @@
+.jumbotron{
+	background-image: url("../img/newyork.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	height:1000px;
+	width:1500px;
+}
+h1, h2{
+	color:#d2dff4;
+	font-family: 'Raleway', sans-serif;
+}
+p{
+	font-family: 'Raleway', sans-serif;
+	color:#597db7;
+}
