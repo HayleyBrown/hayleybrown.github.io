@@ -1,0 +1,16 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	background:#eaeff7;
+}
+h1{
+		color:#5170a3;
+	}
+h4{
+	color:#5170a3;
+}
+.description{
+	background-image:url("../img/sky.jpg");
+	background-position: right left;
+	background-size: 500px;
+	background-repeat: no-repeat;
+}
